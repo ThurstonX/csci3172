@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b14fa63-0abf-47f7-9949-a8f716143804" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/_redirects" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labs/lab7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/labs/lab7/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +41,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;&lt;unknown&gt;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/57716/git/csci3172/labs/lab7&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -67,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1732060744430</updated>
       <workItem from="1732060745235" duration="865000" />
-      <workItem from="1732061831631" duration="2172000" />
+      <workItem from="1732061831631" duration="2746000" />
     </task>
     <servers />
   </component>
